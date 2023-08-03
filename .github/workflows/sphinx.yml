@@ -38,7 +38,7 @@ jobs:
       - name: Clean up files
         run: rm -r docs/_build/doctrees/        
       - name: Deploy to Github pages
-        uses: peaceiris/action-gh-pages@v3.6.1
+        uses: peaceiris/actions-gh-pages@v3.6.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: docs/_build/html
