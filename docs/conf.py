@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'WEBSITE'
+project = 'COMET'
 copyright = '2023, comet'
 author = 'comet'
 release = '0.0.1'
