@@ -1,7 +1,7 @@
-阅读笔记
+读书
 ======
 
-balabalabala
+记录阅读的书籍，并进行书评。
 
 .. toctree::
    :maxdepth: 2
