@@ -11,7 +11,11 @@
    :caption: 导航
 
    about
-   start/index
+   IELTS/index
+   CFA/index
+   Algorithm/index
+   Quant/index
+   Read/index
 
 
 
