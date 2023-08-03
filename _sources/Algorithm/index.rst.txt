@@ -10,5 +10,4 @@ balabalabala
    Problems/index
    Knowledge/index
    String/index
-   01_conf
-   03_ss
+   Interview/index
